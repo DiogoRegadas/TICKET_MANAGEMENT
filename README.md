@@ -1,6 +1,6 @@
 # Ticket Management System (ASP.NET MVC)
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Status](https://img.shields.io/badge/status-completed-blue)
 ![Framework](https://img.shields.io/badge/framework-ASP.NET%20MVC-blue)
 ![Language](https://img.shields.io/badge/language-C%23-purple)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)

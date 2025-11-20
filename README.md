@@ -56,17 +56,6 @@ This project demonstrates skills in **full-stack development**, **MVC architectu
 
 ---
 
-## 🔮 Future Improvements
-
-- Dashboard with charts (open vs closed tickets, resolution times)
-- Email notifications
-- Ticket activity logs
-- API version (REST endpoints) + React frontend
-- Dark mode
-- Attachments (upload files to tickets)
-
----
-
 ## 📦 Installation
 
 1. Clone the repository and open the solution in **Visual Studio**.
